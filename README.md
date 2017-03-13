@@ -8,6 +8,10 @@ The website content will be
 - Basic Information
 - Contact Information
 - Terms and Conditions | Privacy Statement
+- Referral Program
+-- what is it?
+-- what are the benefits?
+-- how can i join?
 
-Copyright information
+Copyright information 
 
